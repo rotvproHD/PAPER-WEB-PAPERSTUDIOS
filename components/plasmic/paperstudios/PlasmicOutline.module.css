@@ -1,0 +1,32 @@
+.root:global(.__wab_instance) {
+  max-width: 100%;
+  width: 500px;
+  height: 150px;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root:global(.__wab_instance) {
+    width: 358px;
+    height: 100px;
+  }
+}
+.svg__b1Aia {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.h2 {
+  font-size: 60px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .h2 {
+    font-size: 40px;
+  }
+}
+.svg__ekgO0 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
